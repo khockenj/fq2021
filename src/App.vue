@@ -6,19 +6,19 @@
       dark
     >
       <div class="d-flex align-center">
-        FlyQuest Analyst App 2021
+        FlyQuest Analysis
       </div>
       
       <v-btn class='mx-10' to='/'>
-        Task 1 - Bootcamp Stats
+        Bootcamp Stats
       </v-btn>
 
       <v-btn to='/patchInfo' class='ml-0 mr-10'>
-        Task 2 - Meta Trends
+        Meta Trends
       </v-btn>
 
       <v-btn to='/scrims' class='ml-0 mr-10'>
-        Task 3/4 - Scrim Database
+        Scrim Database
       </v-btn>
 
       <v-spacer></v-spacer>
